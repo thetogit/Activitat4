@@ -5,6 +5,7 @@ public class test1 {
 		System.out.println("Hola món");
 		System.out.println("Me llamo pepe");
 		System.out.println("Estic modificant el arxiu");
+		System.out.println("YOLOOO");
 
 	}
 
